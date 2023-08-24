@@ -1,0 +1,12 @@
+* {
+  font-family: monospace;
+}
+
+:root {
+  --bg-color: #073642;
+}
+
+body {
+  box-sizing: border-box;
+  background-color: var(--bg-color);
+}
